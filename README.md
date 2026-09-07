@@ -35,4 +35,4 @@ on each publish; do not edit `index.html` by hand.
 
 Nothing here links to the app's source repository, which is private.
 
-Currently published: `v0.99.0+20260906-212234EDT`
+Currently published: `v0.99.0+20260907-005406EDT`
